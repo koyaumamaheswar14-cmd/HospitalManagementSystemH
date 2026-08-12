@@ -1,0 +1,36 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Full height */
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Smooth rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+/* Buttons */
+button {
+  font-family: inherit;
+}
+
+/* Inputs */
+input,
+select {
+  font-family: inherit;
+}
