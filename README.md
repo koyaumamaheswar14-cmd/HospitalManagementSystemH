@@ -4,6 +4,9 @@
 A full-stack Hospital Management System built using Spring Boot, React, MySQL, and Docker.
 
 The application provides separate functionality for Patients and Doctors, including authentication, appointment booking, appointment management, appointment tracking, doctor changing, appointment cancellation, payments, patient profiles, and medical reports.
+## 🎥 Frontend & Backend Connection
+
+[![Watch the video](https://img.youtube.com/vi/Dgyf7-9daMQ/maxresdefault.jpg)](https://youtu.be/Dgyf7-9daMQ)
 
 ---
 
