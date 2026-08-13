@@ -9,7 +9,11 @@ The application provides separate functionality for Patients and Doctors, includ
 [![Watch the video](https://img.youtube.com/vi/Dgyf7-9daMQ/maxresdefault.jpg)](https://youtu.be/Dgyf7-9daMQ)
 
 ---
+## 🚀 Working Project
 
+The working Hospital Management System project is available here:
+
+🔗 [View/Download Working Project](https://drive.google.com/file/d/1H-j8n1dCLvEVUkR0g_2OqJP088zQKiL3/view?usp=drive_link)
 ## Features
 
 ### Authentication
