@@ -1,6 +1,4 @@
-Absolutely. Copy everything below directly into your `README.md`:
 
-````markdown
 # Hospital Management System (HMS)
 
 A full-stack Hospital Management System built using Spring Boot, React, MySQL, and Docker.
